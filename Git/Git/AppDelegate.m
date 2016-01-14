@@ -10,6 +10,8 @@
 
 @interface AppDelegate ()
 
+@property(nonatomic,strong) UILabel *label;
+
 @end
 
 @implementation AppDelegate
